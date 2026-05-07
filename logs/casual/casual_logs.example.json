@@ -1,0 +1,12 @@
+[
+  {
+    "id": "casual-0001",
+    "saved_at": "YYYY-MM-DDTHH:mm:ss+09:00",
+    "source_ai": "Codex / Claude / ChatGPT / Gemini",
+    "theme": "会話テーマ",
+    "self_insights": "自分について見えたこと",
+    "business_ideas": "事業に使えそうなこと",
+    "content_ideas": "発信・資料に使えそうなこと",
+    "raw_log": "全文ではなく、後で文脈復元できる粒度の要約"
+  }
+]
